@@ -684,7 +684,19 @@ body.scale-cv {
 }
 
 .scale-cv .career__section {
-    margin-bottom: 0;
+    margin-bottom: var(--mb-2);
+}
+
+.scale-cv .career__name {
+    display: none;
+}
+
+.scale-cv .last__ca-name {
+    display: flex;
+}
+
+.scale-cv .certi_more {
+    display: none;
 }
 
 
