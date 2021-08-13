@@ -699,6 +699,10 @@ body.scale-cv {
     display: none;
 }
 
+.scale-cv .compu__skills {
+    display: none;
+}
+
 
 /* MEDIA QUERYS */
 
